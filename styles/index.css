@@ -4,3 +4,11 @@
     padding: 10px;
     font-size: medium;
 }
+.article{
+    color: aqua;
+    background-color: gray;
+    text-align: center;
+}
+.article h3{
+    text-align: center;
+}
