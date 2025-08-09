@@ -12,3 +12,12 @@
 .article h3{
     text-align: center;
 }
+.git-push-prompt{
+    font-weight: bold;
+    font-size: larger;
+    font-family: sans-serif;
+    /* text-align: center */
+    background-color: black;
+    color: white;
+    padding: 12px;
+}
